@@ -1,0 +1,43 @@
+<p>2020 was a year for soul-searching for many people, for obvious reasons: 
+The way many did business or conducted work had been turned completely on 
+its head. Many were increasingly working from home and, for those of us who
+were in service industries,  our faces were coverd the entire day with masks. 
+Fist bumps had replaced handshakes, hugs were frowned upon, we all became 
+experts in reading eyebrow signals. It wasn't a great time.</p>
+
+<p>I work both in education as a lecturer and in hospitality as a cafe manager,
+so you can bet I felt this impact pretty strongly. I'm not going to lie - I
+ was mentally exhausted and needed a change.</p>
+
+<p>About this time, a friend who I've known for forever
+contacted me asking if I was interested in making an app with them to 
+track Covid cases. I had done some coding at university, mostly GIS-related 
+spatial analysis stuff in R and Python but had never built anything before, 
+so I agreed. Very quickly I became infatuated with the world of programming 
+and frustrated by my lack of knowledge.</p>
+
+<p>Our first app, Febris, was a basic data visualisor of the covid numbers 
+across the world. My contribution was fairly minimal, but the process 
+helped me realise that my interests lay in the data. <i>For some strange reason</i>, 
+I liked working with databases, I enjoyed examining the data itself, thinking 
+about its potential applications. I wondered what insights it could lead to 
+and was willing to face the brain-deadening, mind-numbing frustation of 
+creating a well-composed Viz when you don't know the shortcuts or have 
+an established process.</p>
+
+<p> Outside of my full time job, I began to learn more about data analysis. 
+I took courses in Business Analytics, SQL, Tableau, R and R-Studio. 
+On Kaggle, I brushed up on the basics of machine learning and, most 
+recently, I have completed the Google Data Analytics Specialisation 
+on Coursera.</p>
+
+<p>I am <i>deeply</i> interested in this field and dedicate my spare time to learning
+as much on the topic as I can. This site is a demonstration of this interest and a 
+record of what I've learned so far. I am planning here to explore my other interests in 
+sustainability,tourism, hospitality, and education, so I hope you enjoy browsing 
+through an interesting collection of projects.</p>
+
+<p>Now, if you've made it through all of that, I salute you. If you're a potential
+employer, feel free to take a look at my CV, below. If you're a fellow data 
+enthusiast or potential collaborator, drop me a line by clicking on the contact 
+link in the navigation panel above.</p>

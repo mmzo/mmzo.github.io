@@ -493,3 +493,54 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .social a:hover {
   color: #000;
 }
+
+/*--------------------------------------------------------------
+# Added by me
+--------------------------------------------------------------*/
+
+/* .img-hover-zoom--colorize img{
+  transition: all 2s;
+  filter: grayscale(100%);
+}
+
+.img-hover-zoom--colorize:hover img {
+  filter: grayscale(0);
+} */
+
+#get-in-touch,
+#get-in-touch:link{
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  box-shadow: 0 1.5rem 2.5rem rgba(0, 0, 0, 0.753);
+  border-radius: .2rem;
+  margin-top: -.5rem;
+  padding: .5rem;
+  display:inline-block;
+}
+
+#get-in-touch:hover{
+  border: none;
+  transform: scale(1.07);
+  color: white;
+  background-color:#102738e3;
+  box-shadow: 0 1.5rem 2.5rem rgba(0, 0, 0, 0.753);
+  border-radius: .2rem;
+  padding: .5rem;
+}
+
+.space-reducer{
+  margin-top: -6rem;
+}
+
+.space-adder{
+  margin-bottom: 2rem;
+}
+
+.u-text-align{
+  text-align: center;
+}
+
+.margin-right{
+  margin-right: 1rem;
+}
