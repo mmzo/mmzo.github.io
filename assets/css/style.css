@@ -544,3 +544,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .margin-right{
   margin-right: 1rem;
 }
+
+.u-padding-bottom{
+  padding-bottom: .5rem;
+}

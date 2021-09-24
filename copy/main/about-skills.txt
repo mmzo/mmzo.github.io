@@ -1,0 +1,23 @@
+Skills:
+
+R | R-Studio 80
+
+Python | Juptyer notebooks 80
+
+Tableau 50
+
+SQL | SQL Lite / PostGreSQL 75
+
+Microsoft Excel | Google Sheets 85
+
+JIRA / YouTrack 55
+
+Git | Github 85
+
+ArcGIS 60
+
+Python | Django 65
+
+HTML5 / SASS / CSS3 80
+
+Photoshop / Gimp 20
