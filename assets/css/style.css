@@ -548,3 +548,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .u-padding-bottom{
   padding-bottom: .5rem;
 }
+
+.u-padding-top-sm{
+  padding-top: 1rem;
+}

@@ -1,6 +1,0 @@
-Cyclistic
-
-Google Capstone project as the final assessment for the Google Data Analytics Specialisation on Coursera.
-I demonstrate a variety of techniques learned and practiced in this course, including data cleaning, 
-wrangling, and communication. I use R and R-Markdown to create an html Jupyter notebook that documents
-my process.

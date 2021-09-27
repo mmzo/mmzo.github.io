@@ -1,4 +1,0 @@
-In this guided project, I built a website for a fictional nature tours company.
-In doing so, I used a variety of advanced CSS techniques to decorate and animate the site.
-I learned how to use Sass to better take advantage of variables and functions in CSS code,
-as well as more efficiently organise CSS code.

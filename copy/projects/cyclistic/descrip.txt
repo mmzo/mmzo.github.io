@@ -1,5 +1,0 @@
-In this project I analysed data from a fictional Chicago-based bike rental company
-for the past 13 months. The project was from the perspective of the data analytics team, 
-who are seeking to assist the marketing team to improve membership uptake. The task of the 
-data analytics team is primarily to explore the current data and uncovering differences 
-between member and casual users.
